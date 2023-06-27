@@ -1,1 +1,12 @@
-Wondering of the best way to annotate data? As an NLP guru, I try to build effective and efficient models, well trained to reach and surpass human accuracy! Quite knowledgeable about sentimental analysis, topic modelling, text classification, named entitiy recognition, and lemmatization.
+# Data Analyst | Researcher | Technical Writer
+
+## Skills
+- Technical Writing 
+- Report Writing
+- Editing
+- Natural Language Processing
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Business Analytics
+- Artficial Intelligence
